@@ -1,3 +1,3 @@
 # SdL2RectangleRender
 Training -Rendered a rectangle using SDL2
-![image](https://user-images.githubusercontent.com/54118211/223889293-f717f25c-8a5c-43c0-b8a7-6a0636c5e867.png)
+![image](https://user-images.githubusercontent.com/54118211/223889625-c589c980-b0bd-44a6-948d-4da8ee4c007f.png)
